@@ -86,7 +86,7 @@ function vehicles_url() {
 }
 
 function vehicle_route() {
-  return "Shuttle002,Shuttle005";
+  return "Shuttle-BraintreeNorthQuincy,Shuttle005";
 }
 
 function shape_route() {
